@@ -13,8 +13,8 @@ Simple yet complete Docker project showcasing:
 
 ```bash
 # Build and run
-docker build -t webapp .
-docker run -p 8080:80 webapp
+docker build -t my-webapp .
+docker run -d -p 8080:80 my-webapp 
 ```
 
 **Access:** http://localhost:8080
