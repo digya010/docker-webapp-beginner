@@ -12,10 +12,6 @@ Simple yet complete Docker project showcasing:
 ## Quick Start
 
 ```bash
-# Clone and navigate
-git clone https://github.com/YOUR_USERNAME/docker-webapp-beginner.git
-cd docker-webapp-beginner
-
 # Build and run
 docker build -t webapp .
 docker run -p 8080:80 webapp
