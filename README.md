@@ -72,3 +72,9 @@ wsl --update
 ---
 
 **Learning Focus:** Docker containerization, image building, and deployment fundamentals.
+
+---
+
+**Final results**
+<img width="1911" height="1028" alt="image" src="https://github.com/user-attachments/assets/b14ff47d-18db-4290-a9bd-6d2e6981dc3f" />
+
